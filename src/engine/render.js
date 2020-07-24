@@ -1,13 +1,13 @@
 function renderSiteHTML() {
     let string =  
-    `<div class="container">
-        <div class="top">
+    `<div class="hub">
+        <div class="innerhub top">
         top
         </div>
-        <div class="middle">
+        <div class="innerhub middle">
         middle
         </div>
-        <div class="bottom">
+        <div class="innerhub bottom">
         bottom
         </div>
     </div>`;
