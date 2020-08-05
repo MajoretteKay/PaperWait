@@ -1,0 +1,42 @@
+body {
+    background-color: #f8b195;
+    font: #355C7D;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.hub {
+    background-color: #6C5B7B;
+    padding: 50px;
+    width: 75%;
+    margin: 25px;
+    display: inline-block;
+    border-radius: 25px;
+}
+
+.innerhub {
+    background-color: #C06C84;
+    width: 50%;
+    padding: 25px;
+    margin: 25px;
+    display: inline-block;
+    border-radius: 50px 15px;
+
+}
+
+.app {
+    font: #F67280;
+}
+
+button {
+    background-color: #F67280;
+    border-radius: 10px;
+    border-color: #F67280;
+    border-style: none;
+    padding: 10px;
+}
+
+.container {
+    margin: 1rem;
+
+}
